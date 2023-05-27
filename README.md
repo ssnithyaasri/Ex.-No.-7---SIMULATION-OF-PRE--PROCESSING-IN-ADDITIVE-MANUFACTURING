@@ -46,8 +46,8 @@
 ## Output:
 ![image](https://github.com/ssnithyaasri/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119122478/5caf7363-9a8b-4e6c-b314-9d5bd2ea2b03)
 
-### Name:NITHYAA SRI S S
-### Register Number:212222230100
+## Name:NITHYAA SRI S S
+## Register Number:212222230100
 
 ## Result: 
-### Thus the simulation on the Preprocessing in additive manufacturing is completed.
+Thus the simulation on the Preprocessing in additive manufacturing is completed.
