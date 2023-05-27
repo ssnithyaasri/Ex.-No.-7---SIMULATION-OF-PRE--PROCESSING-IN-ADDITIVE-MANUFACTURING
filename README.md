@@ -44,8 +44,9 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/ssnithyaasri/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119122478/5caf7363-9a8b-4e6c-b314-9d5bd2ea2b03)
 
-### Name:
+### Name:NITHYAA SRI S S
 ### Register Number:
 
 ## Result: 
